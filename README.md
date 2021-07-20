@@ -1,20 +1,18 @@
 <style>
     .center {
-        height: 10px;
-        width: 20px;
+        height: 80px;
+        width: 1000px;
         margin-top: 10px;
     }
     body {background-color: blue;}
     h1 {color: orange;}
-
-
 
 </style>
 
 
 
 
-![Do Something Great](Images/doSomethingGreat.jpeg)(.center)
+<img class="center" src=Images/doSomethingGreat.jpeg>
 
 
 # Hi there 👋

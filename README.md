@@ -1,23 +1,8 @@
-<style>
-    .center {
-        height: 80px;
-        width: 1000px;
-        margin-top: 10px;
-    }
-    body {background-color: blue;}
-    h1 {color: orange;}
-
-</style>
-
-
-
-
 <img class="center" src=Images/doSomethingGreat.jpeg>
 
 
 # Hi there 👋
 
-##My Name is Lamonte 
 
 👋 Hi, I’m @Lamonte Scott
 👀 I’m interested in mobile, game, web, UI, UX, and backend development.
@@ -30,7 +15,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 
 <details>
-    <summary>:zap: Github Stats</summary>
+    <summary>:zap: Github Stats </summary>
     
     <a href=" ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">

@@ -54,7 +54,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
          
          
 Toolbox
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+      <img width="20px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 
 
  

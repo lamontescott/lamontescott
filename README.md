@@ -19,14 +19,43 @@
 ---
 <!--Bio-->
 
+✏ PERSONAL
+As a child growing up with nothing up north. I always thought my biggest obstacle was the lack of finances, esteem, brains, security, and physiological needs. Then I felt the Detroit, Michigan wind chill across my ears. The biggest obstacle was digging myself out of this unrelenting snow desert of knowledge. Every glimpse of knowledge from the history channel, science channel, school, small lego & kinetic creations, movies, and audiotapes warmed my heart and soul. Providing me with just enough warmth to continue moving forward in life.
 
-👋 Hi, I’m @Lamonte Scott
-👀 I’m interested in mobile, game, web, UI, UX, and backend development.
-🌱 I’m currently learning two powerful programming languages C++ and C#.
-I'm improving as a 3D Artist and animator with Blender 2.92.
-💞️ I’m looking to collaborate on projects that will push me to improve as an developer.
-📫 How to reach me is here on GitHub.
-P.S. I will forever be a student at learning the mysterious world of software development.Images/doSomethingGreat.jpeg
+Until I somehow made it into college at Texas A&M University-Texarkana. I discovered the power of the internet with the purchase of a necessary school laptop. From that moment forward, I took off academically, mentally, spiritually, and socially. Now I am obsessed with knowledge and chose to belly flop into a competitive field that is packed with booties. Hardware was my passion before discovering the fascinating world of software engineering & developing through college courses.
+
+Now I am quickly obtaining the technical skills and tools needed to be successful in the software field. Every morning I am out of bed developing before the native birds have a chance to signal daylight.
+
+I dream of working at a company that will push me to think in ways I never did before. I desired to work for a company where my daily efforts are contributing to the organization's bigger picture.
+
+-----------------------------
+ABOUT
+
+Electrical Engineering Alumnus
+
+CONTACT
+
+👉 Reached out to me and connect. | 682-313-3665 | iamlamontescott@gmail.com
+👉 See what I am up to here. | https://lamontescott.github.io/personal-website/
+👉 Check out my project's source code here. | https://github.com/lamontescott
+
+------------------
+PROFESSIONAL SUMMARY
+
+Surpassed all expectations as an electrical engineering scholar at Agricultural and Mechanical (A&M) with a four-year tacked recorded of experience, awards, achievements, and projects. That demonstrates my ability to excel at a top-level.
+
+
+
+SPECIALTIES
+
+Technical Lead | Engineering Management | Control Systems | Simulation Software
+C# Deveoper | Web Developer {HTML & CSS & Javascript | PHP Developer
+Code Optimization | Computer Science Courses | Project Managment
+-------------------------
+📡 SOCIAL SPACE
+
+2K+ views on google views
+Known throughout my university.
 
  <!--Github Stats-->
 

@@ -3,14 +3,17 @@
 
 <p align="center">
      <a href=">
-              <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn" alt="">
-              </a>
+        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
+     </a>
      <a href="" >
-        <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit">
+        <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit"> 
+                                                                                                                                          </a>                                                                                                                                     
      <a href="">
-       <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F"                   alt="Website>
+       <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F"                   alt="Website> 
+     </a>
      <a href="" >
-        <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">   
+        <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">  
+     </a>
 </p>
  <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->                                                                                                                                
 
@@ -60,16 +63,3 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 
 ---
-
-      
-
-       
-
-
-
-
-  
-
-
-
-

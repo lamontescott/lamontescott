@@ -53,12 +53,14 @@ P.S. I will forever be a student at learning the mysterious world of software de
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight)](https://git.io/streak-stats)
          
          
-Toolbox
-      <img width="20px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+---
 
+🧰 Toolbox
 
- 
-         
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
       
 
        

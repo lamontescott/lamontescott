@@ -36,6 +36,10 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 </details>
 
+[Website]: https://lamontescott.github.io/personal-website/
+[Linkedin]: https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D
+
+
 
 
 

@@ -42,10 +42,10 @@ P.S. I will forever be a student at learning the mysterious world of software de
 [Linkedin]: https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true"" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">
 </a>
 
 

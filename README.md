@@ -1,4 +1,4 @@
-<img height="200px" width="800px" src=Images/doSomethingGreat.jpeg>
+<img height="200px" width="100%" src=Images/doSomethingGreat.jpeg>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue">

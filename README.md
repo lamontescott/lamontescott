@@ -7,11 +7,9 @@
      <a href="">
        <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F"                   alt="Website>
      <a href="" >
-        <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">
-    
-     <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->
-    
+        <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">   
 </p>
+ <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->                                                                                                                                
 
 
 # Hi there 👋

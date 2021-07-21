@@ -2,7 +2,9 @@
 
 
 <p align="center">
-     ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)
+     <a href=">
+              <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn" alt="">
+              </a>
      <a href="" >
         <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit">
      <a href="">

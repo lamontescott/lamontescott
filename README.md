@@ -4,7 +4,7 @@
 # Hi there 👋
 
 
-<hr>
+<hr height="2px">
 
 
 👋 Hi, I’m @Lamonte Scott

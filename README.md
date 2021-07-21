@@ -32,6 +32,10 @@ I'm improving as a 3D Artist and animator with Blender 2.92.
 💞️ I’m looking to collaborate on projects that will push me to improve as an developer.
 📫 How to reach me is here on GitHub.
 P.S. I will forever be a student at learning the mysterious world of software development.Images/doSomethingGreat.jpeg
+         
+         [Website]: https://lamontescott.github.io/personal-website/
+[Linkedin]: https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D
+
 
 
 
@@ -46,9 +50,16 @@ P.S. I will forever be a student at learning the mysterious world of software de
    
 </details>
          
+         
+         
+         
+         
+         
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
  
          
-       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott)](https://git.io/streak-stats)
+      
 
        
 
@@ -57,8 +68,6 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
   
 
-[Website]: https://lamontescott.github.io/personal-website/
-[Linkedin]: https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D
 
 
 

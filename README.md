@@ -2,9 +2,7 @@
 
 
 <p align="center">
-     <a href=">
-        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
-     </a>
+   
      <a href="" >
         <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit"> 
                                                                                                                                           </a>                                                                                                                                     
@@ -63,3 +61,8 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 
 ---
+
+
+  <a href=">
+        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
+     </a>

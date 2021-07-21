@@ -29,7 +29,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 
 
-![Lamonte GitHub stats](https://github-readme-stats.vercel.app/api?username=lamontescott&theme=dark&show_icons=true)
+![Lamonte GitHub stats](https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true)
 
 
 

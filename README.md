@@ -33,7 +33,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
     <summary>:zap: Github Stats</summary>
     
     <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">

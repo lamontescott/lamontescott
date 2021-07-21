@@ -1,19 +1,14 @@
-<img height="200px" width="400px" src=Images/doSomethingGreat.jpeg>
+<img height="200px" width="800px" src=Images/doSomethingGreat.jpeg>
 
 
 <p align="center">
-    <a href="" alt="">
-        <img src="">]
-    <a href="" alt="">
-        <img src="">
-     <a href="" alt="">
-        <img src="">
-     <a href="" alt="">
-        <img src="">
-     <a href="" alt="">
-        <img src="">
-     <a href="" alt="">
-        <img src="">
+     <a href="" >
+        <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit">
+     <a href="">
+       <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F"                   alt="Website>
+     <a href="" >
+        <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">
+    
      <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->
     
 </p>
@@ -22,6 +17,7 @@
 # Hi there 👋
 
 ---
+<!--Bio-->
 
 
 👋 Hi, I’m @Lamonte Scott
@@ -31,12 +27,8 @@ I'm improving as a 3D Artist and animator with Blender 2.92.
 💞️ I’m looking to collaborate on projects that will push me to improve as an developer.
 📫 How to reach me is here on GitHub.
 P.S. I will forever be a student at learning the mysterious world of software development.Images/doSomethingGreat.jpeg
-         
-         [Website]: https://lamontescott.github.io/personal-website/
-[Linkedin]: https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D
 
-
-
+ <!--Github Stats-->
 
 <details>
     <summary>:zap: Github Stats </summary>
@@ -53,7 +45,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
          
          
 ---
-
+<!--Toolbox-->
 🧰 Toolbox
  <br>
  <br>

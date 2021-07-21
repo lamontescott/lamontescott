@@ -17,13 +17,12 @@ P.S. I will forever be a student at learning the mysterious world of software de
 <details>
     <summary>:zap: Github Stats </summary>
     
-    <a href=" ">
+   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">
-    </a>
-    <a href=" ">
+    
+    
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">
-    </a>
-
+   
 </details>
 
 [Website]: https://lamontescott.github.io/personal-website/

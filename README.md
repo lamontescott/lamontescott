@@ -1,4 +1,4 @@
-<img height="200px" width="100%" src=Images/doSomethingGreat.jpeg>
+<img height="200px" width="100%" src=https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper4-700x438.jpg>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D">

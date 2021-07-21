@@ -16,10 +16,7 @@
      </a>
                                                                                                                                  
   
-   <a href="">
-        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
-     </a>
-                                                                                                            
+                                                                                            
                                                                                                                                  
 </p>
                                                                                                                     

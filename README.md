@@ -1,4 +1,4 @@
-<img class="center" src=Images/doSomethingGreat.jpeg>
+<img height="200px" width="400px" src=Images/doSomethingGreat.jpeg>
 
 
 <p align="center">

@@ -21,8 +21,7 @@
 
 # Hi there 👋
 
-
-<hr height="2px">
+---
 
 
 👋 Hi, I’m @Lamonte Scott
@@ -57,7 +56,8 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 

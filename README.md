@@ -46,7 +46,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
    
 </details>
          
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight)](https://git.io/streak-stats">
+ 
          
          
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight)](https://git.io/streak-stats)

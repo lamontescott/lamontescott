@@ -15,13 +15,19 @@
         <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">  
      </a>
                                                                                                                                  
-     
-   <a href=" ">
+  
+   <a href="">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
      </a>
-                                                                                                                            
+                                                                                                            
                                                                                                                                  
 </p>
+                                                                                                                    
+                                                                                                                    
+   <a href="">
+        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
+     </a>
+
  <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->                                                                                                                                
 
 

@@ -29,7 +29,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github-stats-lamonte.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="left" alt="Hello" src="github-stats-lamonte.vercel.app">
+

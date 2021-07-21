@@ -18,13 +18,13 @@
 
 ---
 <!--Bio-->
-👋 Hi, I’m @Lamonte Scott
-👀 I’m interested in mobile, game, web, UI, UX, and backend development.
-🌱 I’m currently learning two powerful programming languages C++ and C#.
-✏️ I'm improving as a 3D Artist and animator with Blender 2.92.
-💞️ I’m looking to collaborate on projects that will push me to improve as an developer.
-📫 How to reach me is here on GitHub.
-P.S. I will forever be a student at learning the mysterious world of software development.
+<p>👋 Hi, I’m @Lamonte Scott</p>
+<p>👀 I’m interested in mobile, game, web, UI, UX, and backend development.</p>
+<p>🌱 I’m currently learning two powerful programming languages C++ and C#.<p
+<p>✏️ I'm improving as a 3D Artist and animator with Blender 2.92.</p>
+<p>💞️ I’m looking to collaborate on projects that will push me to improve as an developer.</p>
+<p>📫 How to reach me is here on GitHub.</p>
+<p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
 
 
  <!--Github Stats-->

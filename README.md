@@ -32,7 +32,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
 <details>
     <summary>:zap: Github Stats</summary>
 <<img align="left" alt="Lamonte Scott Github Stats" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true" />
-    <img align="right" alt="Lamonte Scott Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact" />
+    <img align="right" alt="Lamonte Scott Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight" />
 
 </ul>
 

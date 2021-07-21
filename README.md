@@ -4,6 +4,9 @@
 # Hi there 👋
 
 
+***
+
+
 👋 Hi, I’m @Lamonte Scott
 👀 I’m interested in mobile, game, web, UI, UX, and backend development.
 🌱 I’m currently learning two powerful programming languages C++ and C#.

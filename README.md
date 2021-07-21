@@ -28,10 +28,13 @@ I'm improving as a 3D Artist and animator with Blender 2.92.
 P.S. I will forever be a student at learning the mysterious world of software development.Images/doSomethingGreat.jpeg
 
 
-<ul>
 
-<li> ![Lamonte GitHub stats](https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true) </li>
+<details>
+    <summary>:zap> Github Stats</summary>
+<<img align="left" alt="Lamonte Scott Github Stats" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true" />
 </ul>
+
+</details>
 
 
 

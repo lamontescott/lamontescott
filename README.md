@@ -56,7 +56,10 @@ P.S. I will forever be a student at learning the mysterious world of software de
 
 🧰 Toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="50" height="50"/> 
 
 
 ---

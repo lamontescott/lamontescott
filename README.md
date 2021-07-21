@@ -1,13 +1,16 @@
 <img height="200px" width="800px" src=Images/doSomethingGreat.jpeg>
 
+<p align="center">
+   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue">
+   <img src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F">
+   <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square">
+   <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square">
+   </p>
+
 
 
    
-       <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit"> 
-                                                                                                                                                                                 
-       <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F">                  
-       <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size"> 
-                                                                                                                                                                                                                                                           
+                                                    
 
                                                                                                                     
                                                                                                                    

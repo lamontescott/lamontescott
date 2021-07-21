@@ -26,3 +26,7 @@ I'm improving as a 3D Artist and animator with Blender 2.92.
 💞️ I’m looking to collaborate on projects that will push me to improve as an developer.
 📫 How to reach me is here on GitHub.
 P.S. I will forever be a student at learning the mysterious world of software development.Images/doSomethingGreat.jpeg
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

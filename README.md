@@ -10,11 +10,7 @@
                                                                                                                                                                                                                                                            
 </p>
                                                                                                                     
-                                                                                                                    
-   <a href="">
-        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
-     </a>
-
+                                                                                                                   
  <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->                                                                                                                                
 
 

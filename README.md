@@ -60,6 +60,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
 <img src="https://user-images.githubusercontent.com/63941608/126529691-5761ecf0-ce7e-4aa3-b6b5-4965069055e4.png" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://user-images.githubusercontent.com/63941608/126529883-380a5544-e488-4ada-bc16-e3c941eb9bca.png" alt="PHP Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cPlusPlus Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="cPlusPlus Logo" width="50" height="50"/> 
 
 
 ---

@@ -3,21 +3,11 @@
 
 <p align="center">
    
-   
-     <a href="" >
-        <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit"> 
-                                                                                                                                          </a>                                                                                                                                     
-     <a href="">
-       <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F"                   alt="Website> 
-     </a>
-     
-     <a href="" >
-        <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size">  
-     </a>
-                                                                                                                                 
-  
-                                                                                            
-                                                                                                                                 
+       <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square" alt="Github repo Last Commit"> 
+                                                                                                                                                                                 
+       <img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F">                  
+       <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square" alt="Github repo size"> 
+                                                                                                                                                                                                                                                           
 </p>
                                                                                                                     
                                                                                                                     

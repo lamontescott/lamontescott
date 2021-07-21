@@ -55,7 +55,7 @@ P.S. I will forever be a student at learning the mysterious world of software de
          
          
          
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=dark)](https://git.io/streak-stats)
 
  
          

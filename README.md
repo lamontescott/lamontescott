@@ -45,17 +45,14 @@ P.S. I will forever be a student at learning the mysterious world of software de
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">
    
 </details>
-         
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight)](https://git.io/streak-stats">
 
-    
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott1&theme=dark)](https://git.io/streak-stats)
 
-    
+
+  
 
 [Website]: https://lamontescott.github.io/personal-website/
 [Linkedin]: https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight)](https://git.io/streak-stats)
 

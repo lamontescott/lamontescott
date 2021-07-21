@@ -32,10 +32,10 @@ P.S. I will forever be a student at learning the mysterious world of software de
 <details>
     <summary>:zap: Github Stats</summary>
     
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href=" ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href=" ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">
     </a>
 

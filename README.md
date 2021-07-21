@@ -63,6 +63,6 @@ P.S. I will forever be a student at learning the mysterious world of software de
 ---
 
 
-  <a href=">
+  <a href="">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="">
      </a>

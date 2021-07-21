@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue">
    </a>
    <a href="https://lamontescott.github.io/personal-website/">
-   <img src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flamontescott.github.io%2Fpersonal-website%2F">
+   <img src="">
    </a>
    <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square">
    <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square">

@@ -4,7 +4,7 @@
 # Hi there 👋
 
 
-***
+<hr>
 
 
 👋 Hi, I’m @Lamonte Scott

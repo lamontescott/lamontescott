@@ -34,14 +34,14 @@
     <summary>:zap: Github Stats </summary>
     
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true&count_private">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">
     
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight&count_private">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">
    
 </details>
          
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight&count_private)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamontescott&theme=tokyonight)](https://git.io/streak-stats)
          
          
 ---

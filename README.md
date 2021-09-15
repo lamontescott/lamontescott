@@ -19,7 +19,7 @@
 
 ---
 <!--Bio-->
-<p>👋 Hi, I’m @Lamonte Scott</p>
+<p>👋 Hi, I’m @Scott</p>
 <p>👀 I’m interested in mobile, game, web, UI, UX, and backend development.</p>
 <p>🌱 I’m currently learning two powerful programming languages C++ and JS.<p
 <p>✏️ I'm improving as a 3D Artist and animator with Blender 2.92.</p>

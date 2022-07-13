@@ -58,7 +58,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50" />
-<img src="https://github.com/lamontescott/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg alt="Dot Net Core Logo" width="50" height="50">
+<img src="https://github.com/lamontescott/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dot Net Core Logo" width="50" height="50">
 <img src="https://github.com/lamontescott/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cSharp Logo" width="50" height="50">
 <img src="https://github.com/lamontescott/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50">
 <img src="https://github.com/lamontescott/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase Logo" width="50" height="50">

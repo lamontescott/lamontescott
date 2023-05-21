@@ -53,7 +53,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"> 
 <img src="https://user-images.githubusercontent.com/63941608/126529691-5761ecf0-ce7e-4aa3-b6b5-4965069055e4.png" alt="JavaScript Logo" width="50" height="50"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="JQuery Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50">

@@ -1,19 +1,5 @@
 <img height="200px" width="100%" src=https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper4-700x438.jpg>
-
-
-<p align="center">
-   <a href="https://www.linkedin.com/in/lamontescott?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOsdbI1Z%2BRZS3k87PffWzqA%3D%3D">
-   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&labelColor=blue">
-   </a>
-   <a href="https://lamontescott.github.io/personal-website/">
-   <img src="">
-   </a>
-   <img src="https://img.shields.io/github/last-commit/lamontescott/personal-website?style=flat-square">
-   <img src="https://img.shields.io/github/repo-size/lamontescott/personal-website?style=flat-square">
-   </p>
-
-                                                                                                                                            
- <!--Donwload, other, Website, Github Last Commit, Github repo, Github repo size-->                                                                                                                                
+                                                       
 <!--Allow Me to Introduce Myself -->
 # Hello 👋, 
 

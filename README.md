@@ -17,7 +17,7 @@
  <!--Github Stats-->
 
 <details>
-    <summary>:zap: Top Projects </summary>
+    <summary>:zap: Top Projects & Achievements </summary>
     Comming Soon!
 </details>
          

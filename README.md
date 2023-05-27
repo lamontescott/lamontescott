@@ -31,14 +31,8 @@
  <!--Github Stats-->
 
 <details>
-    <summary>:zap: Github Stats </summary>
-    
-   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamontescott&theme=tokyonight&show_icons=true">
-    
-    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamontescott&layout=compact&theme=tokyonight">
-   
+    <summary>:zap: Top Projects </summary>
+    Comming Soon!
 </details>
          
 

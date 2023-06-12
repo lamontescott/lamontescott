@@ -12,7 +12,7 @@
 <p>💞️ I’m looking to collaborate on projects that will push me to improve as an developer.</p>
 <p>📫 How to reach me is by sending me a direct message on <a href="https://linkedin.com/in/lamontescott" target="_blank">Linkedin</a> or IG.</p>
 <p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
-https://linkedin.com/in/lamontescott
+
 
 
  <!--Github Stats-->

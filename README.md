@@ -18,8 +18,8 @@
 
 <details>
     <summary>:zap: Top Projects & Achievements </summary>
-    Website - <a href="https://www.lamontescott.com" target="_blank">lamontescott.com</a> <br />
-    Website - <a href="https://www.eagleeyry.com" target="_blank">eagleeyry.com</a>
+    &nbsp; &nbsp; Website - <a href="https://www.lamontescott.com" target="_blank">lamontescott.com</a> <br />
+    &nbsp; &nbsp; Website - <a href="https://www.eagleeyry.com" target="_blank">eagleeyry.com</a>
 </details>
          
 

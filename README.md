@@ -17,7 +17,7 @@
  <!--Github Stats-->
 
 <details>
-    <summary>:zap: Top Projects & Achievements </summary>
+    <summary>:zap: Top Projects & Achievements </summary> <br />
     &nbsp; &nbsp; Website - <a href="https://www.lamontescott.com" target="_blank">lamontescott.com</a> <br />
     &nbsp; &nbsp; Website - <a href="https://www.eagleeyry.com" target="_blank">eagleeyry.com</a>
 </details>

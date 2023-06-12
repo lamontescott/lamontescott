@@ -10,8 +10,9 @@
 <p>🌱 I’m currently learning two powerful programming languages dotnet web API's, sql and backend development.<p
 <p>✏️ I'm improving as a 3D Artist and animator with Blender 2.92.</p>
 <p>💞️ I’m looking to collaborate on projects that will push me to improve as an developer.</p>
-<p>📫 How to reach me is by sending me a direct message on Linkedin or IG.</p>
+<p>📫 How to reach me is by sending me a direct message on <a href="https://linkedin.com/in/lamontescott" target="_blank">Linkedin</a> or IG.</p>
 <p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
+https://linkedin.com/in/lamontescott
 
 
  <!--Github Stats-->

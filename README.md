@@ -9,6 +9,7 @@
 ---
 <!--Bio-->
 ## About me, 
+---
 <p>👋 Hi, I’m @lamontescott</p>
 <p>👀 I am a confident frontend developer(Nextjs, Reactjs)} who can has implemented many features and solved countless bugs. </p>
 <p>🍎 I have hundredths of houring building backend architectures in dotnet and entity framework core</p>

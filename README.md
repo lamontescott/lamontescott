@@ -1,8 +1,7 @@
 
-<h1>It's me Lamonte Scott👋</h1>
----
+<h1>It's me Lamonte Scott👋</h1> 
 <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="200" />
----
+<br />
 <!--Bio-->
 <h1>About me,</h1>
 ---

@@ -1,10 +1,9 @@
 
 <h1>It's me Lamonte Scott👋</h1> 
 <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="200" />
-<br />
 <!--Bio-->
 <h1>About me,</h1>
----
+
 <p>👋 Hi, I’m @lamontescott</p>
 <p>👀 I am a confident frontend developer(Nextjs, Reactjs)} who can has implemented many features and solved countless bugs. </p>
 <p>🍎 I have hundredths of houring building backend architectures in dotnet and entity framework core</p>
@@ -24,7 +23,6 @@
     &nbsp; &nbsp; Website - <a href="https://www.eagleeyry.com" target="_blank">eagleeyry.com</a>
 </details>
 
----
 <!--Toolbox-->
 <h1>🧰 Toolbox</h1>
  <br>

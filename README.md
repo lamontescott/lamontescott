@@ -1,5 +1,5 @@
 
-# It's me Lamonte Scott👋
+# It's me $${\color{red}Lamonte Scott}$$👋
 ---
 <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="200" />
                                                        
@@ -10,7 +10,7 @@
 <!--Bio-->
 ## About me, 
 <p>👋 Hi, I’m @lamontescott</p>
-<p>👀 I am a confident $${\color{red}frontend developer(Nextjs, Reactjs)}$$ who can has implemented many features and solved countless bugs. </p>
+<p>👀 I am a confident frontend developer(Nextjs, Reactjs)} who can has implemented many features and solved countless bugs. </p>
 <p>🍎 I have hundredths of houring building backend architectures in dotnet and entity framework core</p>
 <p>🍇 I have built web api workers in nodejs and python</p>
 <p>🥦 I understand the ins and outs of NoSQL(Mongodb) and SQL(postgres)</p>

@@ -13,7 +13,9 @@
 <p>📫 How to reach me is by sending me a direct message on <a href="https://linkedin.com/in/lamontescott" target="_blank">Linkedin</a> or <a href="mailto:lamonte.inboxes@gmail.com" target="_blank">Email</a>.</p>
 <p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
 
-
+<div style="background-color: pink; width: 100; height: 200">
+  
+</div>
 
  <!--Github Stats-->
 

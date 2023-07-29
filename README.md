@@ -10,7 +10,7 @@
 <!--Bio-->
 ## About me, 
 <p>👋 Hi, I’m @lamontescott</p>
-<p>👀 I am a confident style="color:orange;">frontend developer(Nextjs, Reactjs)</span> who can has implemented many features and solved countless bugs. </p>
+<p>👀 I am a confident <span style="color:orange;">frontend developer(Nextjs, Reactjs)</span> who can has implemented many features and solved countless bugs. </p>
 <p>🍎 I have hundredths of houring building backend architectures in dotnet and entity framework core</p>
 <p>🍇 I have built web api workers in nodejs and python</p>
 <p>🥦 I understand the ins and outs of NoSQL(Mongodb) and SQL(postgres)</p>

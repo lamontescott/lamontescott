@@ -1,11 +1,10 @@
-<img height="200px" width="100%" src=https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper4-700x438.jpg>
+<img height="200px" width="100%" src=""https://giphy.com/embed/4rZA5D22301iMgrUNd"</p>>
                                                        
 <!--Allow Me to Introduce Myself -->
 # Hello 👋, 
 
 ---
 <!--Bio-->
-<div width="50%">
 <p>👋 Hi, I’m @Scott</p>
 <p>👀 I’m interested in mobile, game, web, UI, UX, and backend development.</p>
 <p>🌱 I’m currently learning two powerful programming languages dotnet web API's, sql and backend development.</p>
@@ -13,7 +12,6 @@
 <p>💞️ I’m looking to collaborate on projects that will push me to improve as an developer.</p>
 <p>📫 How to reach me is by sending me a direct message on <a href="https://linkedin.com/in/lamontescott" target="_blank">Linkedin</a> or <a href="mailto:lamonte.inboxes@gmail.com" target="_blank">Email</a>.</p>
 <p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
-</div>
 
  <!--Github Stats-->
 

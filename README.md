@@ -2,13 +2,9 @@
 <h1>It's me Lamonte Scott👋</h1>
 ---
 <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="200" />
-                                                       
-<!--Allow Me to Introduce Myself -->
-
-
 ---
 <!--Bio-->
-## About me, 
+<h1>About me,</h1>
 ---
 <p>👋 Hi, I’m @lamontescott</p>
 <p>👀 I am a confident frontend developer(Nextjs, Reactjs)} who can has implemented many features and solved countless bugs. </p>
@@ -21,20 +17,17 @@
 <p>📫 How to reach me is by sending me a direct message on <a href="https://linkedin.com/in/lamontescott" target="_blank">Linkedin</a> or <a href="mailto:lamonte.inboxes@gmail.com" target="_blank">Email</a>.</p>
 <p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
 
- <!--Github Stats-->
+<!--Github Stats-->
 
 <details>
     <summary>:zap: Top Projects & Achievements </summary> <br />
     &nbsp; &nbsp; Website - <a href="https://www.lamontescott.com" target="_blank">lamontescott.com</a> <br />
     &nbsp; &nbsp; Website - <a href="https://www.eagleeyry.com" target="_blank">eagleeyry.com</a>
 </details>
-         
 
-         
-         
 ---
 <!--Toolbox-->
-🧰 Toolbox
+<h1>🧰 Toolbox</h1>
  <br>
  <br>
  <br>

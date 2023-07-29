@@ -1,5 +1,5 @@
 
-# It's me $${\color{red}Lamonte Scott}$$👋
+# It's me Lamonte Scott👋
 ---
 <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="200" />
                                                        
@@ -52,5 +52,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Logo" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="45" height="45">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="45" height="45">
 ---
 

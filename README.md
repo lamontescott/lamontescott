@@ -1,10 +1,14 @@
+
+# It's me Lamonte Scott👋
+---
 <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100%" height="200" />
                                                        
 <!--Allow Me to Introduce Myself -->
-# Hello 👋, 
+
 
 ---
 <!--Bio-->
+## About me, 
 <p>👋 Hi, I’m @Scott</p>
 <p>👀 I’m interested in mobile, game, web, UI, UX, and backend development.</p>
 <p>🌱 I’m currently learning two powerful programming languages dotnet web API's, sql and backend development.</p>

@@ -5,13 +5,13 @@
 <h1>About me,</h1>
 
 <p>👋 Hi, I’m @lamontescott</p>
-<p>👀 I am a confident frontend developer(Nextjs, Reactjs)} who can has implemented many features and solved countless bugs. </p>
+<p>👀 I am a confident frontend developer(Nextjs, Reactjs)} who has implemented many features and solved countless bugs. </p>
 <p>🍎 I have hundredths of houring building backend architectures in dotnet and entity framework core</p>
 <p>🍇 I have built web api workers in nodejs and python</p>
 <p>🥦 I understand the ins and outs of NoSQL(Mongodb) and SQL(postgres)</p>
 <p>🫐 My hands has touched swiftUI and reactjs native respectively.</p>
 <p>🍪 If you're company is looking for a FullStack Engineer send me an email.
-<p>💞️ I am open to contributing to open source projects that aim to add value to the community.</p>
+<p>💞️ I am open to contributing to open source projects that aim to add value to the community too.</p>
 <p>📫 How to reach me is by sending me a direct message on <a href="https://linkedin.com/in/lamontescott" target="_blank">Linkedin</a> or <a href="mailto:lamonte.inboxes@gmail.com" target="_blank">Email</a>.</p>
 <p>P.S. I will forever be a student at learning the mysterious world of software development.</p>
 
